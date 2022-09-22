@@ -6,7 +6,7 @@ To make comparisons between different city types and summarize the data in a sum
 
 ## Results:
 
-![Summary Data Table](https://github.com/vanessaneang/PyBer_Analysis/blob/analysis/Summary_Data_Table_Pyber.png)
+![Summary Data Table](https://github.com/vanessaneang/blob/PyBer_Analysis/analysis/Summary_Data_Table_Pyber.png)
 
 From this Summary Data Table of that groups the Total Rides, Drivers, Fares, Average Fare per Ride, and Average Fare per Driver by City Type we can see that Urban Cities tend to have more rides and drivers, but a lower cost per ride and driver. 
 
