@@ -20,6 +20,20 @@ This bubble charts bases the circle or plot point size on the average amount of 
 
 ![Fig 4 Box Plot](https://github.com/vanessaneang/PyBer_Analysis/blob/main/analysis/Fig4.png)
 
+Based on the different box plots of the three city types it looks like the data sets are fairly accurate, with little outliers, that would significantly skew the data. The data sets thus can be trusted to see what future directions the company should go for. Lets look at the data in a pie chart to see if there are any interesting details that should suggest any prominent trends.
+
+![Fig 5 Pie Chart](https://github.com/vanessaneang/PyBer_Analysis/blob/main/analysis/Fig5.png)
+
+![Fig 6 Pie Chart](https://github.com/vanessaneang/PyBer_Analysis/blob/main/analysis/Fig6.png)
+
+![Fig 7 Pie Chart](https://github.com/vanessaneang/PyBer_Analysis/blob/main/analysis/Fig7.png)
+
+From these figures we can see that Urban Cities account for **62.7%** of Pyber's total revenue despite having cheaper fares than both Suburban and Rural Cities. In addition, the total percent of rides in Urban Citites is **68.4%** of Pyber's total number of rides. Lastly, the totl number of drives seems to be largely Urban City based, with Urban cities accounting for **80.9%** of drivers on the app. 
+
+Now we'll look at if there any trends in specific times of the year where Pyber should market more or change their prices. 
+
+![Pyber Fare Summary](https://github.com/vanessaneang/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png)
+
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 Summary:
 
