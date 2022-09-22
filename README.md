@@ -34,7 +34,10 @@ Now we'll look at if there any trends in specific times of the year where Pyber 
 
 ![Pyber Fare Summary](https://github.com/vanessaneang/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png)
 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-Summary:
+For all three city types it seems that there is spike or peak in fare price around the end of Feburary and beginning of March, with varying levels of dips between the three city types for the lowests fares. For Urban Cities the lowest point for fares seems to be at the beginning of January. For Suburban beginning of January and mid-April seems to be the cheapest of fares. Rural Cities, have their lowest fares in Janurary and in mid-February, just before the peak.
+
+## Summary:
 
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+**There are three suggestions for Pyber to address the disparities among the different city types:**
+Based on the data, it seems that the most sucessful cities that bring in the highest revenue are Urban Cities, if the CEO wants to see more revenue, **(1) increasing the cost for Urban City Rides**. However, the cost of each ride in Rural and Suburban areas may be deterring clients from using Pyber's services, so **(2) decreasing the fare for these areas may lead to more riders which in turn could lead to more driver's registered with Pyber.** The last suggestion for PyBer would be 
